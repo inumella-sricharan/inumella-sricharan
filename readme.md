@@ -48,13 +48,10 @@ def Ambitions():
 
  ```
 ## 📋 ***My approach to solving problems.***
-* There are two entities in the mind space, ideas and concepts.
-* Ideas collide into concepts and release more ideas, constituting a chain reaction.
-* If proper care is not taken this fission reaction goes out of control. Leads to a meltdown.
-* We need to install control rods i.e, a pen and a paper.
-* Writing the ideas down, testing them and iterating over them, reasoning for why some ideas work and some dont.
-* That leads to a sustainable output of work.
+* There are two entities in the mind space, ideas and concepts. Ideas collide into concepts and release more ideas, constituting a chain reaction.
+* If proper care is not taken this fission reaction goes out of control. Leads to a meltdown. We need to install control rods i.e, a pen and a paper.
+* Writing the ideas down, testing them and iterating over them, reasoning for why some ideas work and some dont. That leads to a sustainable output of work.
 
  
 ## ***Current Works***
- * I'm currently working on 🔭 building **ML and Generative AI applications in Banking domain** and working up on polishing my skills 🌱 on **Research in Machine Learning**.
+ * I'm currently working on 🔭 building **ML and Generative AI applications in Banking** and working upon polishing my skills 🌱 on **Research in Machine Learning**.
