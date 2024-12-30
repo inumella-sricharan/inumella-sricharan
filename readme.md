@@ -17,10 +17,10 @@
 * Deep Learning
 
 ## ***Programming Languages***
-<img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/c-original.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/cpp.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/python.svg' height='30'/>  <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/sql.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/shell-svgrepo-com.svg' width='30'/>
+<img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/c-original.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/cpp.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/python.svg' height='30'/>  <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/sql.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/shell-svgrepo-com.svg' width='30'/>
  
 ## ***Technologies I Use***
-<img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/pytorch-icon.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/hadoop.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/impala-svgrepo-com.svg' height='30'/>  <img src = 'https://github.com/inumella-sricharan/intro_repo/blob/main/Jupyter_logo.svg' width='30'/> 
+<img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/pytorch-icon.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/hadoop.svg' width='30'/> <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/impala-svgrepo-com.svg' height='30'/>  <img src = 'https://github.com/inumella-sricharan/inumella-sricharan/blob/main/Jupyter_logo.svg' width='30'/> 
  
  ## ***Who am I?***
  ```python
