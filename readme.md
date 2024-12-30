@@ -6,7 +6,7 @@
 
 <div style="text-align: right"> ❄️ Turning data into insights, because if it’s not confusing at first, am I even learning?</div><br>
 
-<img src = 'https://64.media.tumblr.com/3b5ce257af5440f0e06b49fab46bf56b/tumblr_p3j397V3731qciqqno8_1280.gif' alt = 'intro-gif' align='center'/>
+<img src = 'git_int_4.gif' alt = 'intro-gif' align='center'/>
 
 ## :computer: ***Technologies I Love***
 
